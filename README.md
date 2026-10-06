@@ -17,7 +17,7 @@ Users can submit a travel request, receive a dynamically generated itinerary, re
 ---
 ###🎥 **Application Demo**
 
-<p align="center"> <img src="assets/tripbuddy-demo.gif" width="900" alt="TripBuddy AI Demo"> </p>
+<p align="center"> <img src="assets/ezgif.com-video-to-gif-converter.gif" width="900" alt="TripBuddy AI Demo"> </p>
 
 📌 Replace assets/tripbuddy-demo.gif with your actual demo GIF.
 ## 🚀 What This Project Demonstrates
