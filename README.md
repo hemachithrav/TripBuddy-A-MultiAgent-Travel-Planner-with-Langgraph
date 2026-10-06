@@ -262,6 +262,12 @@ This enables:
 ## 🛠️ Technology Stack
 
 ### AI / Agentic AI
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-orange)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-purple)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
 
 `Generative AI` `LLMs` `Agentic AI` `Multi-Agent Systems` `AI Agents` `Supervisor Agents` `Tool Calling` `AI Guardrails` `Human-in-the-Loop`
 
