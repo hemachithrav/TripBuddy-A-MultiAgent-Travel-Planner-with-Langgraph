@@ -15,7 +15,11 @@ The system uses **LangGraph for stateful agent orchestration** and **Model Conte
 Users can submit a travel request, receive a dynamically generated itinerary, review the proposed plan, provide feedback or request revisions, and approve the final result.
 
 ---
+###🎥 **Application Demo**
 
+<p align="center"> <img src="assets/tripbuddy-demo.gif" width="900" alt="TripBuddy AI Demo"> </p>
+
+📌 Replace assets/tripbuddy-demo.gif with your actual demo GIF.
 ## 🚀 What This Project Demonstrates
 
 ### 🤖 Agentic AI
