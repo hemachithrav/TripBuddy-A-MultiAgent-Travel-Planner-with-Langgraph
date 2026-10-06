@@ -1,4 +1,10 @@
+<!-- 🤖 HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=TripBuddy%20AI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20%7C%20Multi-Agent%20Systems%20%7C%20LangGraph%20%7C%20MCP&descAlignY=58&descSize=18" />
+</p>
+
 # ✈️ TripBuddy AI — Multi-Agent Travel Planner
+
 
 > **An Agentic AI travel-planning system built with LangGraph, MCP, Supervisor-based orchestration, AI Guardrails, Human-in-the-Loop approval, and persistent PostgreSQL-backed agent state.**
 
